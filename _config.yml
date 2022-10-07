@@ -1,2 +1,4 @@
 remote_theme:  piharpi/jekyll-klise
 
+plugins:
+  - jekyll-seo-tag
